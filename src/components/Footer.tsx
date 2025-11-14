@@ -111,7 +111,7 @@ export default function Footer() {
                   href="tel:+1234567890"
                   className="text-gray-400 hover:text-primary transition-colors text-sm"
                 >
-                  +1 (234) 567-890
+                  (+880) 1779162551
                 </a>
               </li>
               <li className="flex items-start space-x-3">

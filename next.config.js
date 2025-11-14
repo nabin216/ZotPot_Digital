@@ -1,14 +1,18 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   reactStrictMode: true,
-  output: 'export',
-  trailingSlash: true,
   images: {
     domains: ['images.unsplash.com', 'via.placeholder.com'],
-    unoptimized: true,
   },
-  basePath: '/ZotPot_Digital',
-  assetPrefix: '/ZotPot_Digital/',
+}
+
+// Only add export configuration for production builds
+if (process.env.NODE_ENV === 'production') {
+  nextConfig.output = 'export';
+  nextConfig.trailingSlash = true;
+  nextConfig.images.unoptimized = true;
+  nextConfig.basePath = '/ZotPot_Digital';
+  nextConfig.assetPrefix = '/ZotPot_Digital/';
 }
 
 module.exports = nextConfig
