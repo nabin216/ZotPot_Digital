@@ -35,7 +35,7 @@ export default function Footer() {
                 <span className="text-white font-bold text-xl">Z</span>
               </div>
               <span className="text-xl font-bold">
-                Zotpot <span className="text-primary">Digital</span>
+                Zotpot <span className="text-primary">IT Solutions</span>
               </span>
             </div>
             <p className="text-gray-400 text-sm">
