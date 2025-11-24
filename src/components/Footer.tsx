@@ -126,7 +126,7 @@ export default function Footer() {
 
         {/* Copyright */}
         <div className="mt-12 pt-8 border-t border-gray-700 text-center text-gray-400 text-sm">
-          <p>© {new Date().getFullYear()} Zotpot Digital Pvt. Ltd. All rights reserved.</p>
+          <p>© {new Date().getFullYear()} Zotpot IT Solutions. All rights reserved.</p>
         </div>
       </div>
     </footer>

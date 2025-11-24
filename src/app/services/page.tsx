@@ -6,7 +6,7 @@ import CloudServices from '@/components/sections/services/CloudServices'
 import Consultancy from '@/components/sections/services/Consultancy'
 
 export const metadata: Metadata = {
-  title: 'Services | Zotpot Digital Pvt. Ltd.',
+  title: 'Services | Zotpot IT Solutions',
   description: 'Comprehensive digital solutions including Web Development, AI & Automation, Digital Marketing, Cloud Services, and IT Consultancy.',
 }
 

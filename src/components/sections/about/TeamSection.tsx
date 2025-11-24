@@ -33,7 +33,7 @@ export default function TeamSection() {
             Meet Our Team
           </h2>
           <p className="text-lg md:text-xl text-gray-600 max-w-2xl mx-auto">
-            The talented individuals who make Zotpot Digital exceptional
+            The talented individuals who make Zotpot IT Solutions exceptional
           </p>
         </div>
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8 md:gap-12">

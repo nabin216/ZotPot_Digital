@@ -4,8 +4,8 @@ import ContactInfo from '@/components/sections/contact/ContactInfo'
 import MapPlaceholder from '@/components/sections/contact/MapPlaceholder'
 
 export const metadata: Metadata = {
-  title: 'Contact Us | Zotpot Digital Pvt. Ltd.',
-  description: 'Get in touch with Zotpot Digital for web development, AI automation, digital marketing, and cloud services. We\'re here to help transform your digital presence.',
+  title: 'Contact Us | Zotpot IT Solutions',
+  description: 'Get in touch with Zotpot IT Solutions for web development, AI automation, digital marketing, and cloud services. We\'re here to help transform your digital presence.',
 }
 
 export default function ContactPage() {

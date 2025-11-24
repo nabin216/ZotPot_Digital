@@ -13,7 +13,7 @@ const contactInfo = [
   {
     icon: Phone,
     label: 'Phone',
-    value: '+1 (234) 567-890',
+    value: '(+880) 1779162551',
     href: 'tel:+1234567890',
   },
   {
@@ -25,7 +25,7 @@ const contactInfo = [
   {
     icon: Clock,
     label: 'Business Hours',
-    value: 'Mon - Fri: 9:00 AM - 6:00 PM',
+    value: '24/7 Support',
     href: '#',
   },
 ]

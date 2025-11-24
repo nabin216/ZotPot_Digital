@@ -5,6 +5,8 @@ import Link from 'next/link'
 import { usePathname } from 'next/navigation'
 import { motion, AnimatePresence } from 'framer-motion'
 import { Menu, X } from 'lucide-react'
+import Image from 'next/image'
+import logo from '../../public/logo.png';
 
 const navLinks = [
   { name: 'Home', href: '/' },
@@ -41,14 +43,18 @@ export default function Navbar() {
       <div className="container-custom">
         <div className="flex items-center justify-between">
           {/* Logo */}
-          <Link href="/" className="flex items-center space-x-2 group">
-            <div className="w-10 h-10 bg-primary rounded-lg flex items-center justify-center transform group-hover:scale-110 transition-transform">
-              <span className="text-white font-bold text-xl">Z</span>
-            </div>
+            <Link href="/" className="flex items-center space-x-2 group">
+            <Image
+              src={logo}
+              alt="Zotpot IT Solutions Logo"
+              width={40}
+              height={40}
+              className="transform group-hover:scale-110 transition-transform"
+            />
             <span className="text-xl md:text-2xl font-bold text-secondary">
-              Zotpot <span className="text-primary">Digital</span>
+              Zotpot <span className="text-primary">IT Solutions</span>
             </span>
-          </Link>
+            </Link>
 
           {/* Desktop Navigation */}
           <div className="hidden md:flex items-center space-x-8">

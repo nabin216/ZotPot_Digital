@@ -1,8 +1,8 @@
-# Zotpot Digital Pvt. Ltd. - Website
+# Zotpot IT Solutions - Website
 
 ## Live link: https://nabin216.github.io/ZotPot_Digital/
 
-A modern, responsive website for Zotpot Digital Pvt. Ltd., built with Next.js, TypeScript, Tailwind CSS, and Framer Motion.
+A modern, responsive website for Zotpot IT Solutions, built with Next.js, TypeScript, Tailwind CSS, and Framer Motion.
 
 ## 🚀 Features
 
@@ -195,9 +195,9 @@ npm install
 
 ## 📄 License
 
-© 2024 Zotpot Digital Pvt. Ltd. All rights reserved.
+© 2024 Zotpot IT Solutions. All rights reserved.
 
 ---
 
-**Built with ❤️ by Zotpot Digital**
+**Built with ❤️ by Zotpot IT Solutions**
 

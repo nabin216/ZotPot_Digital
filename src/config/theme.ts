@@ -1,6 +1,6 @@
 export const theme = {
   brand: {
-    name: 'Zotpot Digital Pvt. Ltd.',
+    name: 'Zotpot IT Solutions',
     tagline: 'Build. Automate. Grow.',
   },
   colors: {

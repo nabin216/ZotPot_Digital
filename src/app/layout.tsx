@@ -16,12 +16,12 @@ const poppins = Poppins({
 })
 
 export const metadata: Metadata = {
-  title: 'Zotpot Digital Pvt. Ltd. | Build. Automate. Grow.',
+  title: 'Zotpot IT Solutions | Build. Automate. Grow.',
   description: 'Empowering businesses through smart digital solutions. Web Development, Automation, AI, Cloud & Marketing — all in one agency.',
-  keywords: 'web development, AI automation, digital marketing, cloud services, IT consultancy, Zotpot Digital',
-  authors: [{ name: 'Zotpot Digital Pvt. Ltd.' }],
+  keywords: 'web development, AI automation, digital marketing, cloud services, IT consultancy, Zotpot IT Solutions',
+  authors: [{ name: 'Zotpot IT Solutions' }],
   openGraph: {
-    title: 'Zotpot Digital Pvt. Ltd. | Build. Automate. Grow.',
+    title: 'Zotpot IT Solutions | Build. Automate. Grow.',
     description: 'Empowering businesses through smart digital solutions.',
     type: 'website',
   },

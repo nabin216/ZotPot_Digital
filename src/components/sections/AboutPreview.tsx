@@ -16,7 +16,7 @@ export default function AboutPreview() {
             transition={{ duration: 0.6 }}
           >
             <h2 className="text-3xl md:text-4xl lg:text-5xl font-bold mb-6">
-              About Zotpot Digital
+              About Zotpot IT Solutions
             </h2>
             <p className="text-lg md:text-xl text-gray-300 mb-6 leading-relaxed">
               We are a forward-thinking digital agency specializing in building, automating, and growing businesses through innovative technology solutions.
