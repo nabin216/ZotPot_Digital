@@ -2,7 +2,7 @@ import Link from 'next/link'
 import { Facebook, Twitter, Linkedin, Instagram, Mail, Phone, MapPin } from 'lucide-react'
 
 const socialLinks = [
-  { icon: Facebook, href: '#', label: 'Facebook' },
+  { icon: Facebook, href: 'https://www.facebook.com/zotpotitsolutions', label: 'Facebook' },
   { icon: Twitter, href: '#', label: 'Twitter' },
   { icon: Linkedin, href: '#', label: 'LinkedIn' },
   { icon: Instagram, href: '#', label: 'Instagram' },
