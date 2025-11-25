@@ -5,10 +5,10 @@ import { Linkedin, Mail } from 'lucide-react'
 
 const teamMembers = [
   {
-    name: 'Alex Johnson',
+    name: 'Asadur Zaman Nabin',
     role: 'Chief Technology Officer',
-    description: 'Alex leads our tech team with over 15 years of experience in software development and project management.',
-    image: 'https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=400&fit=crop',
+    description: 'Asadur leads our tech team with over 7 years of experience in software development and project management.',
+    image: '/nabin.png',
   },
   {
     name: 'Samantha Lee',
@@ -17,7 +17,7 @@ const teamMembers = [
     image: 'https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=400&h=400&fit=crop',
   },
   {
-    name: 'Michael Davis',
+    name: 'Rahad Kaiser',
     role: 'Marketing Strategist',
     description: 'Michael crafts dynamic marketing strategies that drive engagement and growth.',
     image: 'https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=400&h=400&fit=crop',
