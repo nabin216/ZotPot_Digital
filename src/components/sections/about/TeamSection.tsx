@@ -2,13 +2,14 @@
 
 import { motion } from 'framer-motion'
 import { Linkedin, Mail } from 'lucide-react'
+import Nabin from "../../../../public/nabin.png"
 
 const teamMembers = [
   {
     name: 'Asadur Zaman Nabin',
     role: 'Chief Technology Officer',
     description: 'Asadur leads our tech team with over 7 years of experience in software development and project management.',
-    image: '/nabin.png',
+    image: '../../../../public/nabin.png',
   },
   {
     name: 'Samantha Lee',

@@ -4,7 +4,7 @@ import { Facebook, Twitter, Linkedin, Instagram, Mail, Phone, MapPin } from 'luc
 const socialLinks = [
   { icon: Facebook, href: 'https://www.facebook.com/zotpotitsolutions', label: 'Facebook' },
   { icon: Twitter, href: '#', label: 'Twitter' },
-  { icon: Linkedin, href: '#', label: 'LinkedIn' },
+  { icon: Linkedin, href: 'https://www.linkedin.com/company/104468872/admin/dashboard/', label: 'LinkedIn' },
   { icon: Instagram, href: '#', label: 'Instagram' },
 ]
 
@@ -99,10 +99,10 @@ export default function Footer() {
               <li className="flex items-start space-x-3">
                 <Mail size={18} className="text-primary mt-1 flex-shrink-0" />
                 <a
-                  href="mailto:contact@zotpotdigital.com"
+                  href="mailto:contact@zotpotitsolutions.com"
                   className="text-gray-400 hover:text-primary transition-colors text-sm"
                 >
-                  contact@zotpotdigital.com
+                  contact@zotpotitsolutions.com
                 </a>
               </li>
               <li className="flex items-start space-x-3">
@@ -117,7 +117,7 @@ export default function Footer() {
               <li className="flex items-start space-x-3">
                 <MapPin size={18} className="text-primary mt-1 flex-shrink-0" />
                 <span className="text-gray-400 text-sm">
-                  123 Digital Street, Tech City, TC 12345
+                  Barhatta-2440, Netrokona, Bangladesh
                 </span>
               </li>
             </ul>
